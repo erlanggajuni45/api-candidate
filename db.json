@@ -20,27 +20,5 @@
     "noHP": "+62 823 9983 9923",
     "code": "KE-BI0001",
     "status": "MELAKSANAKAN TEST"
-  },
-  {
-    "id": 3,
-    "detail": "",
-    "programName": "BOOTCAMP-QA-MANUAL",
-    "batch": "BATCH-III",
-    "name": "ALMAN SIDURAN",
-    "email": "alman.siduran@gmail.com",
-    "noHP": "+62 823 9983 9923",
-    "code": "KE-BI0001",
-    "status": "LULUS"
-  },
-  {
-    "id": 4,
-    "detail": "",
-    "programName": "BOOTCAMP-QA-MANUAL",
-    "batch": "BATCH-III",
-    "name": "ALMAN SIDURAN",
-    "email": "alman.siduran@gmail.com",
-    "noHP": "+62 823 9983 9923",
-    "code": "KE-BI0001",
-    "status": "MENUNGGU FOLLOW UP"
   }
 ]
