@@ -1,4 +1,5 @@
-[
+{
+  "candidates":[
   {
     "id": 1,
     "detail": null,
@@ -44,3 +45,4 @@
     "status": "MENUNGGU FOLLOW UP"
   }
 ]
+}
