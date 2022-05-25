@@ -6,7 +6,7 @@
     "batch": "BATCH-I",
     "name": "ILHAM MAULANA",
     "email": "ilham.maul@gmail.com",
-    "no-hp": "+62 823 9983 9923",
+    "handphone": "+62 823 9983 9923",
     "code": "KE-BI0001",
     "status": "GAGAL"
   },
@@ -17,7 +17,7 @@
     "batch": "BATCH-II",
     "name": "RAHMAT SINDORU",
     "email": "rahmat.sind@gmail.com",
-    "no-hp": "+62 823 9983 9923",
+    "handphone": "+62 823 9983 9923",
     "code": "KE-BI0001",
     "status": "MELAKSANAKAN TEST"
   },
@@ -28,7 +28,7 @@
     "batch": "BATCH-III",
     "name": "ALMAN SIDURAN",
     "email": "alman.siduran@gmail.com",
-    "no-hp": "+62 823 9983 9923",
+    "handphone": "+62 823 9983 9923",
     "code": "KE-BI0001",
     "status": "LULUS"
   },
@@ -39,7 +39,7 @@
     "batch": "BATCH-III",
     "name": "ALMAN SIDURAN",
     "email": "alman.siduran@gmail.com",
-    "no-hp": "+62 823 9983 9923",
+    "handphone": "+62 823 9983 9923",
     "code": "KE-BI0001",
     "status": "MENUNGGU FOLLOW UP"
   }
