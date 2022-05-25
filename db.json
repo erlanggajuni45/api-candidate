@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "detail": "",
     "programName": "BOOTCAMP-FE-REACT",
     "batch": "BATCH-I",
     "name": "ILHAM MAULANA",
@@ -12,7 +11,6 @@
   },
   {
     "id": 2,
-    "detail": "",
     "programName": "BOOTCAMP-BE-JAVA",
     "batch": "BATCH-II",
     "name": "RAHMAT SINDORU",
