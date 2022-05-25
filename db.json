@@ -1,14 +1,46 @@
 [
   {
     "id": 1,
-    "programName": "BOOTCAMP-FE-REACT",
+    "detail": "",
+    "program_name": "BOOTCAMP-FE-REACT",
     "batch": "BATCH-I",
     "name": "ILHAM MAULANA",
-    },
+    "email": "ilham.maul@gmail.com",
+    "no_hp": "+62 823 9983 9923",
+    "code": "KE-BI0001",
+    "status": "GAGAL"
+  },
   {
     "id": 2,
-    "programName": "BOOTCAMP-BE-JAVA",
+    "detail": "",
+    "program_name": "BOOTCAMP-BE-JAVA",
     "batch": "BATCH-II",
     "name": "RAHMAT SINDORU",
-    }
+    "email": "rahmat.sind@gmail.com",
+    "no_hp": "+62 823 9983 9923",
+    "code": "KE-BI0001",
+    "status": "MELAKSANAKAN TEST"
+  },
+  {
+    "id": 3,
+    "detail": "",
+    "program_name": "BOOTCAMP-QA-MANUAL",
+    "batch": "BATCH-III",
+    "name": "ALMAN SIDURAN",
+    "email": "alman.siduran@gmail.com",
+    "no_hp": "+62 823 9983 9923",
+    "code": "KE-BI0001",
+    "status": "LULUS"
+  },
+  {
+    "id": 4,
+    "detail": "",
+    "program_name": "BOOTCAMP-QA-MANUAL",
+    "batch": "BATCH-III",
+    "name": "ALMAN SIDURAN",
+    "email": "alman.siduran@gmail.com",
+    "no_hp": "+62 823 9983 9923",
+    "code": "KE-BI0001",
+    "status": "MENUNGGU FOLLOW UP"
+  }
 ]
